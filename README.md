@@ -29,7 +29,6 @@ class HemKumar:
     role        = "Engineering Student | AI Developer | Hackathon Builder"
     interests   = ["Generative AI", "Multimodal AI", "RAG Systems", "EdTech", "AgriTech"]
     stack       = ["Python", "JavaScript", "React", "FastAPI", "LangChain", "Gemini AI"]
-    currently   = "Competing in Google's The Big Code 2026 🏁"
     open_to     = ["Hackathons", "Internships", "Collaborations", "Open Source"]
     motto       = "Build first. Optimize later. Ship always. 🚀"
 ```
@@ -168,7 +167,6 @@ class HemKumar:
 
 ## 🎯 Currently
 
-- 🏁 Competing in **Google's The Big Code 2026** (HackerEarth Qualifier)
 - 🔬 Deepening expertise in **RAG pipelines**, **vector databases**, and **multimodal AI**
 - 🛠️ Building projects at the intersection of **AI + everyday real-world problems**
 - 📖 Exploring **system design** and **scalable backend architecture**
