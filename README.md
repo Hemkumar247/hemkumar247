@@ -22,6 +22,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://my-portfolio-eight-indol-45.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -263,6 +267,9 @@ I'm always open to **hackathon collabs**, **internship opportunities**, and conv
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Hemkumar247-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemkumar247)
 
+<a href="https://my-portfolio-eight-indol-45.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
 <br/><br/>
 
 *"Good design is invisible. Great design is unforgettable."* ✨
