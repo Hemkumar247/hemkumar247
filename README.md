@@ -224,17 +224,9 @@ My approach to every project: **Research → Wireframe → Build → Iterate**. 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hemkumar247&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemkumar247&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Hemkumar247&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hemkumar247&theme=tokyonight" height="180"/>
 
 </div>
-
----
 
 ## 📈 Contribution Activity
 
